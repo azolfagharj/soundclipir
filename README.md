@@ -1,3 +1,4 @@
+<html dir="{{ site.dir }}">
 ## کلیپ صوتی فارسی
 
 You can use the [editor on GitHub](https://github.com/azolfagharj/soundclipir/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
